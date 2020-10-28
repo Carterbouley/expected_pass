@@ -1,5 +1,4 @@
-# Stats Models Expected Pass
-This project is for the Stats Models Data Science interview Process.
+# Expected Pass
 
 #### -- Project Status: [Completed]
 
