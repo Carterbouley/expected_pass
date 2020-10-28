@@ -1,2 +1,1 @@
-# expected_pass
-A model to analyse the performance of soccer players 
+Full Readme to be found under Technical Summary notebook
